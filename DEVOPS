@@ -1,4 +1,4 @@
-add devos related operations
+add devops related operations
 pipeline {
 stages {
 }
