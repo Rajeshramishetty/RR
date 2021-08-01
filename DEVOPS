@@ -1,5 +1,5 @@
 add devops related operations
-pipeline {
-stages {
+pipeline{
+stages{
 }
 }
